@@ -1,0 +1,86 @@
+{
+  "last": "Home",
+  "backgroundType": "DEFAULT",
+  "commonDirType": "DEFAULT",
+  "commonpath": "C:\\Users\\l\\AppData\\Roaming\\.minecraft",
+  "hasProxy": false,
+  "hasProxyAuth": false,
+  "proxyType": "HTTP",
+  "proxyPort": 0,
+  "theme": "#5c6bc0",
+  "localization": "def",
+  "downloadType": "bmclapi",
+  "configurations": {
+    "Default": {
+      "global": {
+        "usesGlobal": true,
+        "javaArgs": "",
+        "minecraftArgs": "",
+        "maxMemory": 1920,
+        "permSize": "",
+        "width": 854,
+        "height": 480,
+        "javaDir": "",
+        "precalledCommand": "",
+        "serverIp": "",
+        "java": "1.8.0_241",
+        "wrapper": "",
+        "fullscreen": false,
+        "noJVMArgs": false,
+        "notCheckGame": false,
+        "notCheckJVM": false,
+        "showLogs": false,
+        "gameDir": "",
+        "launcherVisibility": 1,
+        "gameDirType": 0,
+        "defaultJavaPath": "E:\\Java\\bin\\java.exe"
+      },
+      "gameDir": ".minecraft",
+      "useRelativePath": true,
+      "selectedMinecraftVersion": "1.14.1我的世界"
+    },
+    "Home": {
+      "global": {
+        "usesGlobal": false,
+        "javaArgs": "",
+        "minecraftArgs": "",
+        "maxMemory": 1920,
+        "permSize": "",
+        "width": 854,
+        "height": 480,
+        "javaDir": "",
+        "precalledCommand": "",
+        "serverIp": "",
+        "java": "",
+        "wrapper": "",
+        "fullscreen": false,
+        "noJVMArgs": false,
+        "notCheckGame": false,
+        "notCheckJVM": false,
+        "showLogs": false,
+        "gameDir": "",
+        "launcherVisibility": 1,
+        "gameDirType": 0,
+        "defaultJavaPath": ""
+      },
+      "gameDir": "C:\\Users\\l\\AppData\\Roaming\\.minecraft",
+      "useRelativePath": false,
+      "selectedMinecraftVersion": "1.14我的世界"
+    }
+  },
+  "accounts": [
+    {
+      "uuid": "6c3cd39cc4803c60a18a85ac6427a0f0",
+      "username": "ljy002",
+      "type": "offline",
+      "selected": true
+    }
+  ],
+  "fontFamily": "Consolas",
+  "fontSize": 12.0,
+  "logLines": 100,
+  "authlibInjectorServers": [],
+  "updateChannel": "STABLE",
+  "_version": 0,
+  "uiVersion": 0
+}
